@@ -28,7 +28,7 @@
    ![3](https://raw.githubusercontent.com/November-0/Software-project-R-amp-D-practice/main/experiment3/images/3.png)
 默认情况下了列出项目所有的TODO项，进一步按照模块分组（Group By）在这里插入图片描述\
    ![4](https://raw.githubusercontent.com/November-0/Software-project-R-amp-D-practice/main/experiment3/images/4.png)
-6. 添加代码重新运行APP
+6. 添加代码重新运行APP\
 ①定位“start”模块MainActivity.kt文件的TODO 1，添加初始化训练模型的代码
 ```
 private class ImageAnalyzer(ctx: Context, private val listener: RecognitionListener) :
